@@ -1,0 +1,2 @@
+class Nikhil < ApplicationRecord
+end

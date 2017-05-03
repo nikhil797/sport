@@ -1,0 +1,2 @@
+class SportsbuzzController < ApplicationController
+end
